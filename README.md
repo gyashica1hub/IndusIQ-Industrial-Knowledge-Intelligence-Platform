@@ -134,8 +134,8 @@ This project is released under the MIT License.
 
 <div align="center">
 
-**Authors**
+**Author**
 
-Yashica Gupta · Dhruv Raj Ghai
+Yashica Gupta 
 
 </div>
